@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Krypt</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_email">Username</string>
+    <string name="hint_pin">Pin</string>
+    <string name="hint_confirm_pin">Confirm Pin</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Dont have a pin? Sign up now!</string>
+    <string name="btn_link_to_login">Got a Pin? Login!</string>
+    <string name="btn_forgot_password">Forgot your pin?</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_splash">Krypt</string>
+    <string name="title_activity_forgot_pin">ForgotPin</string>
+    <string name="title_activity_videos">Krypt</string>
+    <string name="launch_info">launch_info</string>
+    <string name="signup_field_condition_text">All fields must be filled</string>
+
+    <string name="title_activity_video_player">VideoPlayerActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+</resources>
